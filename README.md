@@ -9,4 +9,4 @@ FRONTEND iOS : https://klickkit@bitbucket.org/klickkit/phantomios.git
 
 BACKEND : https://github.com/srics96/PhantomAngel
 
-API : api.ai
+API : https://api.ai/
